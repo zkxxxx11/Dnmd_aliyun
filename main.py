@@ -1,12 +1,9 @@
 import json
-import multiprocessing as mp
 import threading
-from concurrent.futures import ProcessPoolExecutor
-from multiprocessing import Pool, Lock
 
 from dnmd_demo import Dnmd
 from utils.common import get_conn
-from utils.notice_tools import wechat_notice, Email
+from utils.notice_tools import Email
 
 if __name__ == '__main__':
     aaaaaaaaaaaaaaa
