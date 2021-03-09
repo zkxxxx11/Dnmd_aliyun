@@ -9,6 +9,7 @@ from utils.common import get_conn
 from utils.notice_tools import wechat_notice, Email
 
 if __name__ == '__main__':
+    111111
     conn = get_conn()
     # user_infos = conn.lrange('tt', 0, -1)  # 提取list
     # print(user_infos)
