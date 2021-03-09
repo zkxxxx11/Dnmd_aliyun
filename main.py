@@ -7,6 +7,7 @@ from utils.notice_tools import Email
 
 if __name__ == '__main__':
     aaaaaazkxxxxx
+    2222222
     conn = get_conn()
     # user_infos = conn.lrange('tt', 0, -1)  # 提取list
     # print(user_infos)
